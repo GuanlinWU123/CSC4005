@@ -1,0 +1,137 @@
+Current directory: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts
+Sequential PartB (Optimized with -O2)
+Input file from: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K-RGB.jpg
+Output file to: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K_sequential.jpg
+Transformation Complete!
+Execution Time: 10676 milliseconds
+
+/var/spool/slurmd/job98226/slurm_script: line 19: SIMD: command not found
+SIMD(AVX2) PartB (Optimized with -O2)
+Input file from: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K-RGB.jpg
+Output file to: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K_simd.jpg
+Transformation Complete!
+Execution Time: 4712 milliseconds
+
+MPI PartB (Optimized with -O2)
+Number of processes: 1
+Input file from: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K-RGB.jpg
+Output file to: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K_mpi.jpg
+Transformation Complete!
+Execution Time: 7870 milliseconds
+
+Number of processes: 2
+Input file from: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K-RGB.jpg
+Output file to: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K_mpi.jpg
+Transformation Complete!
+Execution Time: 7525 milliseconds
+
+Number of processes: 4
+Input file from: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K-RGB.jpg
+Output file to: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K_mpi.jpg
+Transformation Complete!
+Execution Time: 3759 milliseconds
+
+Number of processes: 8
+Input file from: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K-RGB.jpg
+Output file to: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K_mpi.jpg
+Transformation Complete!
+Execution Time: 1876 milliseconds
+
+Number of processes: 16
+Input file from: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K-RGB.jpg
+Output file to: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K_mpi.jpg
+Transformation Complete!
+Execution Time: 935 milliseconds
+
+Number of processes: 32
+Input file from: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K-RGB.jpg
+Output file to: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K_mpi.jpg
+Transformation Complete!
+Execution Time: 466 milliseconds
+
+Pthread PartB (Optimized with -O2)
+Number of cores: 1
+Input file from: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K-RGB.jpg
+Output file to: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K_pthread.jpg
+Transformation Complete!
+Execution Time: 11075 milliseconds
+
+Number of cores: 2
+Input file from: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K-RGB.jpg
+Output file to: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K_pthread.jpg
+Transformation Complete!
+Execution Time: 7570 milliseconds
+
+Number of cores: 4
+Input file from: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K-RGB.jpg
+Output file to: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K_pthread.jpg
+Transformation Complete!
+Execution Time: 3859 milliseconds
+
+Number of cores: 8
+Input file from: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K-RGB.jpg
+Output file to: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K_pthread.jpg
+Transformation Complete!
+Execution Time: 2026 milliseconds
+
+Number of cores: 16
+Input file from: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K-RGB.jpg
+Output file to: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K_pthread.jpg
+Transformation Complete!
+Execution Time: 1071 milliseconds
+
+Number of cores: 32
+Input file from: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K-RGB.jpg
+Output file to: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K_pthread.jpg
+Transformation Complete!
+Execution Time: 606 milliseconds
+
+OpenMP PartB (Optimized with -O2)
+Number of cores: 1
+Input file from: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K-RGB.jpg
+Output file to: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K_openmp.jpg
+Transformation Complete!
+Execution Time: 7872 milliseconds
+
+Number of cores: 2
+Input file from: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K-RGB.jpg
+Output file to: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K_openmp.jpg
+Transformation Complete!
+Execution Time: 7868 milliseconds
+
+Number of cores: 4
+Input file from: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K-RGB.jpg
+Output file to: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K_openmp.jpg
+Transformation Complete!
+Execution Time: 4147 milliseconds
+
+Number of cores: 8
+Input file from: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K-RGB.jpg
+Output file to: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K_openmp.jpg
+Transformation Complete!
+Execution Time: 1999 milliseconds
+
+Number of cores: 16
+Input file from: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K-RGB.jpg
+Output file to: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K_openmp.jpg
+Transformation Complete!
+Execution Time: 1005 milliseconds
+
+Number of cores: 32
+Input file from: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K-RGB.jpg
+Output file to: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K_openmp.jpg
+Transformation Complete!
+Execution Time: 622 milliseconds
+
+CUDA PartB
+Input file from: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K-RGB.jpg
+Output file to: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K_cuda.jpg
+Transformation Complete!
+GPU Execution Time: 194.302 milliseconds
+
+OpenACC PartB
+Input file from: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K-RGB.jpg
+Output file to: /nfsmnt/120010048/CSC4005-2023Fall/project1/src/scripts/../../images/20K_openacc.jpg
+Transformation Complete!
+Execution Time: 311 milliseconds
+
